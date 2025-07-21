@@ -1,0 +1,10 @@
+# PROJECT NAME:
+Project on blood group detection by fingerprint using deep learning.
+# CONTENTS :
+-> install tensorflow 
+-> numpy,flask 
+-> install pip new version
+-> create a virtual environment
+-> opencv,keras
+# DATA SETS
+-> install data sets from the kaggle or websites regarding to the data sets of different blood group images.
